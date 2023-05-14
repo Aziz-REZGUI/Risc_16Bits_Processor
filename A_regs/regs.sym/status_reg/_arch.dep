@@ -1,0 +1,5 @@
+ieeevarstd_logic_1164ieee.sym/std_logic_1164/prim.var
+ieeesrcstd_logic_1164stdlogic.vhd
+.varstatus_reg(arch)regs.sym/status_reg/_arch.var
+.srcstatus_reg(arch)regs.vhd
+.varstatus_regregs.sym/status_reg/prim.var

@@ -1,0 +1,5 @@
+ieeevarstd_logic_1164ieee.sym/std_logic_1164/prim.var
+ieeesrcstd_logic_1164stdlogic.vhd
+.varcontrol_test(arch)proc.sym/control_test/_arch.var
+.srccontrol_test(arch)proc_test.vhd
+.varcontrol_testproc.sym/control_test/prim.var

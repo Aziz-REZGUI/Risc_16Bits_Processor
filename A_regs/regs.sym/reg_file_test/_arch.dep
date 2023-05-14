@@ -1,0 +1,8 @@
+.srcreg_fileregs.vhd
+ieeevarstd_logic_1164ieee.sym/std_logic_1164/prim.var
+ieeesrcstd_logic_1164stdlogic.vhd
+ieeevarstd_logic_arithieee.sym/std_logic_arith/prim.var
+ieeesrcstd_logic_arithstdlogicarith.vhd
+.varreg_file_test(arch)regs.sym/reg_file_test/_arch.var
+.srcreg_file_test(arch)regs_test.vhd
+.varreg_file_testregs.sym/reg_file_test/prim.var

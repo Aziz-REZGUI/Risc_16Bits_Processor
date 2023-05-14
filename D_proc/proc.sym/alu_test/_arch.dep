@@ -1,0 +1,5 @@
+ieeevarstd_logic_1164ieee.sym/std_logic_1164/prim.var
+ieeesrcstd_logic_1164stdlogic.vhd
+.varalu_test(arch)proc.sym/alu_test/_arch.var
+.srcalu_test(arch)proc_test.vhd
+.varalu_testproc.sym/alu_test/prim.var
